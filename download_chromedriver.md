@@ -22,10 +22,10 @@ browser = Browser('chrome', **executable_path)
 Now, when you run your code, it should be able to find ChromeDriver and you shouldn't see the error message.
 
 *     chromedriver.chromium.orgchromedriver.chromium.org
-*     ChromeDriver - WebDriver for Chrome - Downloads
+      ChromeDriver - WebDriver for Chrome - Downloads
 
-*     Current Releases
-*     If you are using Chrome version 115 or newer, please consult the Chrome for Testing availability dashboard. This page provides convenient JSON endpoints for specific ChromeDriver version downloading.
+      Current Releases
+      If you are using Chrome version 115 or newer, please consult the Chrome for Testing availability dashboard. This page provides           convenient JSON endpoints for specific ChromeDriver version downloading.
 ## Example executable path for Windows
 
 * executable_path = {'executable_path': 'J:\UNC Bootcamp\Chrome Driver\chromedriver-win64\chromedriver.exe'}
