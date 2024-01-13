@@ -19,6 +19,7 @@ browser = Browser('chrome', **executable_path)
 7. Here's an example:
 8. from splinter import Browser executable_path = {'executable_path': 'C:\path\to\chromedriver.exe'} browser = Browser('chrome', **executable_path)
 9. Replace C:\path\to\chromedriver.exe with the actual path to the chromedriver.exe file on your machine.
+
 Now, when you run your code, it should be able to find ChromeDriver and you shouldn't see the error message.
 
 *     chromedriver.chromium.orgchromedriver.chromium.org
