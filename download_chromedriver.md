@@ -21,10 +21,10 @@ browser = Browser('chrome', **executable_path)
 9. Replace C:\path\to\chromedriver.exe with the actual path to the chromedriver.exe file on your machine.
 Now, when you run your code, it should be able to find ChromeDriver and you shouldn't see the error message.
 
-*    chromedriver.chromium.orgchromedriver.chromium.org
-*    ChromeDriver - WebDriver for Chrome - Downloads
+*     chromedriver.chromium.orgchromedriver.chromium.org
+*     ChromeDriver - WebDriver for Chrome - Downloads
 
-*    Current Releases
+*     Current Releases
 *     If you are using Chrome version 115 or newer, please consult the Chrome for Testing availability dashboard. This page provides convenient JSON endpoints for specific ChromeDriver version downloading.
 ## Example executable path for Windows
 
